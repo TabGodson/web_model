@@ -11,9 +11,9 @@ Open Source
 ## Model list
 
 - T1
- - v1.0.1
+  - v1.0.1
  
 # Examples
 
 - T1
- - [BIEC](www.biec.bashuschool.top)
+  - [BIEC](www.biec.bashuschool.top)
