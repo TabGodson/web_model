@@ -16,4 +16,4 @@ Open Source
 # Examples
 
 - T1
-  - [BIEC](www.biec.bashuschool.top)
+  - [BIEC](http://www.biec.bashuschool.top/)
