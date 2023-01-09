@@ -1,0 +1,4 @@
+Please replace
+style\ico\main_icon.ico
+picture\main_page\main_top.png
+user\sign_bg.jpg
