@@ -10,10 +10,10 @@ Open Source
 
 ## Model list
 
--T1
- -v1.0.1
+- T1
+ - v1.0.1
  
 # Examples
 
--T1
- -[BIEC](www.biec.bashuschool.top)
+- T1
+ - [BIEC](www.biec.bashuschool.top)
